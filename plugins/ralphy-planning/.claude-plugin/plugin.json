@@ -9,17 +9,5 @@
   "homepage": "https://github.com/roneygomes/claude-plugins",
   "repository": "https://github.com/roneygomes/claude-plugins",
   "license": "MIT",
-  "keywords": ["planning", "ralphy", "design", "workflow", "prd"],
-  "commands": [
-    {
-      "name": "flesh-out",
-      "description": "Refine rough ideas before full planning",
-      "source": "./commands/flesh-out.md"
-    },
-    {
-      "name": "plan",
-      "description": "Start full design planning workflow for ralphy PRD",
-      "source": "./commands/plan.md"
-    }
-  ]
+  "keywords": ["planning", "ralphy", "design", "workflow", "prd"]
 }
