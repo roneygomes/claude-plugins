@@ -1,0 +1,13 @@
+{
+  "name": "ralphy-planning",
+  "version": "1.0.0",
+  "description": "Design planning workflow optimized for ralphy task orchestration - creates PRDs with design context and detailed task lists",
+  "author": {
+    "name": "Roney Gomes",
+    "url": "https://github.com/roneygomes"
+  },
+  "homepage": "https://github.com/roneygomes/claude-plugins",
+  "repository": "https://github.com/roneygomes/claude-plugins",
+  "license": "MIT",
+  "keywords": ["planning", "ralphy", "design", "workflow", "prd"]
+}

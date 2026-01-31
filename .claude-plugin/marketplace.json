@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "roneygomes-plugins",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Roney Gomes",
+    "url": "https://github.com/roneygomes"
+  },
+  "metadata": {
+    "description": "Custom Claude Code plugins by Roney Gomes",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "ralphy-planning",
+      "version": "1.0.0",
+      "description": "Design planning workflow optimized for ralphy task orchestration - creates PRDs with design context and detailed task lists",
+      "source": "./plugins/ralphy-planning",
+      "category": "planning",
+      "author": {
+        "name": "Roney Gomes",
+        "url": "https://github.com/roneygomes"
+      },
+      "keywords": ["planning", "ralphy", "design", "workflow", "prd"]
+    }
+  ]
+}
